@@ -1,2 +1,2 @@
-# Spotify
-Install Spotify and block ads properly in Windows 
+# This repository has moved
+Please go to https://github.com/pratyakshm/BlockTheSpot
